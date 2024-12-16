@@ -8,7 +8,8 @@ package cl.albert;
  * @Author Albert
  * @Create 2024/12/16 20:59
  * @Version 1.0
- */// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
+ */
+// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
